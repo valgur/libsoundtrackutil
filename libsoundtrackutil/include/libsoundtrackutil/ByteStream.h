@@ -5,6 +5,7 @@
 #pragma once
 
 #include <cstdint>
+#include <cstring>
 #include <gsl/span>
 #include <vector>
 
